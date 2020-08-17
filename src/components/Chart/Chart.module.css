@@ -1,0 +1,11 @@
+.container {
+    display : flex;
+    flex-direction: column;
+    margin-top : 80px;
+    margin-left : 40px;
+    align-items: center;
+    justify-content: center;
+    width : 85%;
+    height : 500px;
+    font-size : 5;
+}
